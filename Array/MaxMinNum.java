@@ -1,3 +1,5 @@
+// Find the minimum and maximum element in an array
+
 import java.util.Scanner;
 
 class MaxMinNum{
